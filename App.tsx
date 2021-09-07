@@ -1,9 +1,5 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow strict-local
+ from this post: https://www.robinwieruch.de/react-usecontext-hook
  */
 
 import React from 'react';
